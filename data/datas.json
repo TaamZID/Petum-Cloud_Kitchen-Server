@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "name": "FrontEnd Develpment",
+    "image": "https://tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg",
+    "details": "Details"
+  },
+  {
+    "id": "02",
+    "name": "BackEnd Develpment",
+    "image": "https://miro.medium.com/max/1200/1*G48L33n3M7FXze_kturcyQ.jpeg",
+    "details": "Details"
+  },
+  {
+    "id": "03",
+    "name": "App Develpment",
+    "image": "https://dailytimemagazine.com/wp-content/uploads/2022/09/mobile-development-c.jpg",
+    "details": "Details"
+  },
+  {
+    "id": "04",
+    "name": "Machine Learning",
+    "image": "https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg",
+    "details": "Details"
+  },
+  {
+    "id": "05",
+    "name": "Blockchain Dev.",
+    "image": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2019/05/15233606/700-X-394.png",
+    "details": "Details"
+  },
+  {
+    "id": "06",
+    "name": "UI/UX Design",
+    "image": "https://miro.medium.com/max/1050/1*hp-yfKsmzsj711iLbM8eEw.jpeg",
+    "details": "Details"
+  }
+]
