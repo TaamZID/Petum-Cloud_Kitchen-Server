@@ -11,10 +11,6 @@ app.get("/", (req, res) => {
   res.send("Hello World!");
 });
 
-app.get("/hello", (req, res) => {
-  res.send("Hello World!");
-});
-
 app.get("/courses", (req, res) => {
   res.send(datas);
 });
